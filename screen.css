@@ -1,1 +1,10 @@
 /* Add screen styles below */
+html {
+    background: #e3e3e3;
+}
+body {
+
+}
+h3 {
+    font-family: cursive;
+}
