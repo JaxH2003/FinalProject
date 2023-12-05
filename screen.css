@@ -20,12 +20,12 @@ ul {
 
 .navbar ul{
     list-style-type: none;
-    background-color:darkgrey;
+    background-color:black;
     padding: 0px;
     Margin: 0px;
 }
 .navbar a{
-    color: white;
+    color: grey;
     text-decoration: none;
     padding: 15px;
     display:block;
