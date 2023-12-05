@@ -9,6 +9,7 @@ body {
 }
 h3 {
     font-family: cursive;
+    text-align: center;
 }
 h1 {
     text-align:center;
@@ -16,6 +17,7 @@ h1 {
 
 ul {
     text-align:center;
+    list-style-type:none;
 }
 
 .navbar ul{
@@ -30,7 +32,7 @@ ul {
     text-decoration: none;
     padding: 15px;
     display:block;
-    
+    text-align:center;
 }
 
 .navbar a:hover{
@@ -38,7 +40,4 @@ ul {
 }
 .navbar li{
     float: left;
-}
-.navbar{
-    position:sticky;
 }
