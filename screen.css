@@ -3,8 +3,13 @@ html {
     background: #e3e3e3;
 }
 body {
-
+    font-family: 'Times New Roman', Times, serif;
+    margin: 35px;
+    padding: 35px;
 }
 h3 {
     font-family: cursive;
+}
+h1 {
+    text-align:center;
 }
