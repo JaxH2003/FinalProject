@@ -20,12 +20,13 @@ ul {
 
 .navbar ul{
     list-style-type: none;
-    background-color:black;
+    background-color:darkgray;
     padding: 0px;
     Margin: 0px;
+    overflow: hidden;
 }
 .navbar a{
-    color: grey;
+    color: black;
     text-decoration: none;
     padding: 15px;
     display:block;
@@ -33,4 +34,7 @@ ul {
 
 .navbar a:hover{
     background-color:white
+}
+.navbar li{
+    float: left;
 }
