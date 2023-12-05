@@ -17,3 +17,20 @@ h1 {
 ul {
     text-align:center;
 }
+
+.navbar ul{
+    list-style-type: none;
+    background-color:darkgrey;
+    padding: 0px;
+    Margin: 0px;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display:block;
+}
+
+.navbar a:hover{
+    background-color:white
+}
