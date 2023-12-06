@@ -45,9 +45,11 @@ ul {
 
 p {
     text-align: center;
-    
-   
 }
 h2 {
     text-align: center;
 }
+.about {
+    font: size 10000px;
+}
+
