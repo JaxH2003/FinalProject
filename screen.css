@@ -53,7 +53,8 @@ h2 {
    
 }
 .coursework {
-    display: flex;
+    display:flex;
+    justify-content:center;
     align-text:center;
     background-image: url('images/MsuLogo.png');
     background-repeat: no-repeat;
