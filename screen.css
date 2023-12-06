@@ -53,10 +53,13 @@ h2 {
    
 }
 .coursework {
+    display: flex;
     justify-content:center;
     background-image: url('images/MsuLogo.png');
     background-repeat: no-repeat;
     background-size: 130px;
-    
+}
+.coursework ul {
+
 }
 
