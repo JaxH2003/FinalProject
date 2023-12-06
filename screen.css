@@ -56,5 +56,6 @@ h2 {
     justify-content:center;
     background-image: url('images/MsuLogo.png')
     background-size: 40px;
+    background-positon: center left;
 }
 
