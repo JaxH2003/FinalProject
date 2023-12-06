@@ -50,11 +50,12 @@ h2 {
     text-align: center;
 }
 .about {
-   
+   padding:15px;
+    margin:15px;
 }
 .coursework {
     background-image: url('images/MsuLogo.png');
     background-repeat: no-repeat;
     background-size: 130px;
-
+}
 
