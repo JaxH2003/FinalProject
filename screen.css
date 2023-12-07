@@ -63,6 +63,9 @@ img {
     height:auto;
     margin-left: 350px
 }
+.about h3{
+    margin-left:500px;
+}
 
 @media screen {
    
