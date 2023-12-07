@@ -16,6 +16,8 @@ h1 {
 }
 ul {
     list-style-type:none;
+    margin-left:500px
+    
 }
 .navbar ul{
     list-style-type: none;
@@ -61,8 +63,6 @@ img {
     height:auto;
     margin-left: 350px
 }
-.work ul{
-    text-align:center;
-}
+
 
 
