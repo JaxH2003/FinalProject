@@ -16,7 +16,7 @@ h1 {
 }
 ul {
     list-style-type:none;
-    margin-left: 20px;
+    margin-left: 500px;
 }
 .navbar ul{
     list-style-type: none;
@@ -61,7 +61,7 @@ h2 {
 }
 img {
     height:auto;
-    margin-left: 50px
+    margin-left: 250px
 }
 
 @media screen {
