@@ -14,13 +14,10 @@ h3 {
 h1 {
     text-align:center;
 }
-
 ul {
-    text-align:center;
     list-style-type:none;
     padding-left: 15px;
 }
-
 .navbar ul{
     list-style-type: none;
     background-color: sandybrown;
@@ -35,14 +32,12 @@ ul {
     display:block;
     text-align:center;
 }
-
 .navbar a:hover{
     background-color:white
 }
 .navbar li{
     float: left;
 }
-
 p {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
@@ -65,4 +60,8 @@ h2 {
     background-repeat: no-repeat;
     background-size: 175px;
 }
+.leadership ul{
+    text-align: center;
+}
+
 
