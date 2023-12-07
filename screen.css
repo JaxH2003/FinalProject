@@ -51,9 +51,8 @@ h2 {
     margin:15px;
 }
 .coursework {
-    background-image: url('images/MsuLogo.png');
-    background-repeat: no-repeat;
-    background-size: 130px;
+    display:flex;
+    align-items:center;
 }
 .leadership {
     display:flex;
