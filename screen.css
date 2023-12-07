@@ -67,14 +67,4 @@ img {
     margin-left:800px;
 }
 
-@media screen {
-   img {
-    height:auto;
-    margin:0px;
-   }
-   ul {
-    margin:0px;
-   }
-}
-
 
