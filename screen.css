@@ -65,6 +65,7 @@ img {
 }
 .leadership ul{
     margin-left: 350px;
+    float:left;
 }
 .about h3{
     margin-left:500px
