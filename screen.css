@@ -72,6 +72,10 @@ img {
     float:left;
     margin-right:20px;
 }
+.leadership title{
+    text-align: center;
+
+}
 .about h3{
     position: absolute;
   left: 50%; 
