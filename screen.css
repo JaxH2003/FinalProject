@@ -73,5 +73,11 @@ img {
 .edu h3 {
     margin-left:100px;
 }
+.about p{
+    display:flex;
+    flex-direction:center;
+    justify-content: center;
+    align-items: center;
+}
 
 
