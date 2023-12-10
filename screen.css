@@ -72,7 +72,12 @@ img {
     float:left;
     margin-right:20px;
 }
-.about h3, .edu h3{
+.about h3,{
+    position: absolute;
+  left: 50%; 
+  transform: translateX(-50%);
+}
+.edu h3{
     position: absolute;
   left: 50%; 
   transform: translateX(-50%);
@@ -82,6 +87,16 @@ img {
     flex-direction:center;
     justify-content: center;
     align-items: center;
+}
+.coursework {
+    text-align:center;
+    margin-top:20px;
+}
+.coursework ul{
+    list-style-type:none;
+    text-align:center;
+    margin:0;
+    padding:0;
 }
 @media screen and (max-width: 600px) {
     body {
@@ -117,6 +132,11 @@ img {
       margin-left: auto;
       margin-right: auto;
       text-align: left;
+    }
+    .coursework ul{
+        text-align:center;
+        margin-left:auto;
+        margin-right:auto;
     }
 }
 
