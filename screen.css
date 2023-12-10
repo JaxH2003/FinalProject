@@ -72,11 +72,6 @@ img {
     float:left;
     margin-right:20px;
 }
-.about h3,{
-    position: absolute;
-  left: 50%; 
-  transform: translateX(-50%);
-}
 .about p{
     display:flex;
     flex-direction:center;
