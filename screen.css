@@ -77,11 +77,6 @@ img {
   left: 50%; 
   transform: translateX(-50%);
 }
-.edu h3{
-    position: absolute;
-  left: 50%; 
-  transform: translateX(-50%);
-}
 .about p{
     display:flex;
     flex-direction:center;
